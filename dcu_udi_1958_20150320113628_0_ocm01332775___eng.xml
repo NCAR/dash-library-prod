@@ -47,7 +47,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2017-09-28T17:39:00</gco:DateTime>
+        <gco:DateTime>2018-11-29T18:42:54</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115</gco:CharacterString>
@@ -144,15 +144,15 @@
             </gmd:citation>
             <gmd:abstract>
                 <gco:CharacterString>This resource is a booklet summarizing polar meteorological observations from the International Geophysical Year, July 1957-Dec. 1958. Information provided includes measurements from two drifting stations, and radiation data. 
-                            DRIFTING STATION A: Introduction; Map of track and area traversed; Surface data - Average and extreme of maximum and minimum daily temperature (F); Average air temperature (F); Frequency of pressure by 10 MB intervals; Station pressure (Mbs); Number of observations with occurrences of weather; Days with rain, days with snow, rain amount (in), and snowfall (in); Temperature and wind speed (F and Knots); Ceiling - visibility (ft and mi); Total cloud amount (tenths); Rawinsode data; Instrumentation; Table of positions. 
-                            DRIFTING STATION B: Introduction; Map of track and area traversed; Surface data - Average and extreme of maximum and minimum daily temperature (F); Average air temperature (F); Frequency of pressure by 10 MB intervals; Station pressure (Mbs); Number of observations with occurrences of weather; Days with rain, days with snow, rain amount (in), and snowfall (in); Temperature and wind speed (F and Knots); Ceiling - visibility (ft and mi); Total cloud amount (tenths); Rawinsode data; Instrumentation; Table of positions. 
-                            RADIATION DATA: Daily and hourly means of total radiation (solar and sky) (T) on a horizontal surface (cal/cm2/hr); Daily and hourly means of total radiations (solar and sky) (R) reflected from the surface (cal/cm2/hr); Daily and hourly means of total radiation balance (Q) (cal/cm2/hr); Daily and hourly means of total incoming radiation (short-wave and long-wave) (Q1) on a horizontal surface (cal/cm2/hr)</gco:CharacterString>
+                                  DRIFTING STATION A: Introduction; Map of track and area traversed; Surface data - Average and extreme of maximum and minimum daily temperature (F); Average air temperature (F); Frequency of pressure by 10 MB intervals; Station pressure (Mbs); Number of observations with occurrences of weather; Days with rain, days with snow, rain amount (in), and snowfall (in); Temperature and wind speed (F and Knots); Ceiling - visibility (ft and mi); Total cloud amount (tenths); Rawinsode data; Instrumentation; Table of positions. 
+                                  DRIFTING STATION B: Introduction; Map of track and area traversed; Surface data - Average and extreme of maximum and minimum daily temperature (F); Average air temperature (F); Frequency of pressure by 10 MB intervals; Station pressure (Mbs); Number of observations with occurrences of weather; Days with rain, days with snow, rain amount (in), and snowfall (in); Temperature and wind speed (F and Knots); Ceiling - visibility (ft and mi); Total cloud amount (tenths); Rawinsode data; Instrumentation; Table of positions. 
+                                  RADIATION DATA: Daily and hourly means of total radiation (solar and sky) (T) on a horizontal surface (cal/cm2/hr); Daily and hourly means of total radiations (solar and sky) (R) reflected from the surface (cal/cm2/hr); Daily and hourly means of total radiation balance (Q) (cal/cm2/hr); Daily and hourly means of total incoming radiation (short-wave and long-wave) (Q1) on a horizontal surface (cal/cm2/hr)</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName gco:nilReason="missing"/>
                     <gmd:organisationName>
-                        <gco:CharacterString>NCAR/UCAR - Library</gco:CharacterString>
+                        <gco:CharacterString>UCAR/NCAR - Library</gco:CharacterString>
                     </gmd:organisationName>
                     <gmd:positionName gco:nilReason="missing"/>
                     <gmd:contactInfo>
@@ -217,7 +217,7 @@
                     </gmd:thesaurusName>
                 </gmd:MD_Keywords>
             </gmd:descriptiveKeywords>
-       <gmd:descriptiveKeywords>
+            <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
                         <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; SOLAR RADIATION</gco:CharacterString>
@@ -255,7 +255,7 @@
                     </gmd:thesaurusName>
                 </gmd:MD_Keywords>
             </gmd:descriptiveKeywords>
-  <gmd:descriptiveKeywords>
+            <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
                         <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; SURFACE PRESSURE</gco:CharacterString>
@@ -293,7 +293,7 @@
                     </gmd:thesaurusName>
                 </gmd:MD_Keywords>
             </gmd:descriptiveKeywords>
-  <gmd:descriptiveKeywords>
+            <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
                         <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; SURFACE TEMPERATURE &gt; AIR TEMPERATURE</gco:CharacterString>
@@ -331,7 +331,7 @@
                     </gmd:thesaurusName>
                 </gmd:MD_Keywords>
             </gmd:descriptiveKeywords>
-    <gmd:descriptiveKeywords>
+            <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
                         <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS</gco:CharacterString>
@@ -369,7 +369,7 @@
                     </gmd:thesaurusName>
                 </gmd:MD_Keywords>
             </gmd:descriptiveKeywords>
-  <gmd:descriptiveKeywords>
+            <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
                         <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AIR QUALITY &gt; VISIBILITY</gco:CharacterString>
@@ -407,7 +407,7 @@
                     </gmd:thesaurusName>
                 </gmd:MD_Keywords>
             </gmd:descriptiveKeywords>
-  <gmd:descriptiveKeywords>
+            <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
                         <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION AMOUNT</gco:CharacterString>
@@ -445,7 +445,7 @@
                     </gmd:thesaurusName>
                 </gmd:MD_Keywords>
             </gmd:descriptiveKeywords>
-   <gmd:descriptiveKeywords>
+            <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
                         <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; SURFACE WINDS &gt; WIND SPEED</gco:CharacterString>
@@ -483,7 +483,7 @@
                     </gmd:thesaurusName>
                 </gmd:MD_Keywords>
             </gmd:descriptiveKeywords>
-      <gmd:resourceConstraints>
+            <gmd:resourceConstraints>
                 <gmd:MD_LegalConstraints>
                     <gmd:useLimitation>
                         <gco:CharacterString>This resource is available as a physical item in the Library of the NCAR Mesa Laboratory in Boulder, CO. Any further access limitations, such as copyright restrictions, are described on the resources themselves.</gco:CharacterString>
@@ -501,7 +501,27 @@
             <gmd:topicCategory>
                 <gmd:MD_TopicCategoryCode>geoscientificInformation</gmd:MD_TopicCategoryCode>
             </gmd:topicCategory>
-            <gmd:extent gco:nilReason="missing"/>
+            <gmd:extent>
+                <gmd:EX_Extent>
+                    <gmd:description gco:nilReason="missing"/>
+                    <gmd:geographicElement gco:nilReason="missing"/>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gml:TimeEdge gml:id="None">
+                                    <gml:extent>
+                                    <gml:TimePeriod gml:id="None">
+                                    <gml:beginPosition>1957-07</gml:beginPosition>
+                                    <gml:endPosition>1958-12</gml:endPosition>
+                                    </gml:TimePeriod>
+                                    </gml:extent>
+                                </gml:TimeEdge>
+                            </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                    <gmd:verticalElement gco:nilReason="missing"/>
+                </gmd:EX_Extent>
+            </gmd:extent>
         </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
     <gmd:metadataMaintenance>
