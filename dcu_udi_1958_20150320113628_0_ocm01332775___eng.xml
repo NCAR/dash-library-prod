@@ -47,7 +47,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2018-11-29T18:42:54</gco:DateTime>
+        <gco:DateTime>2018-11-29T18:53:49</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115</gco:CharacterString>
@@ -144,9 +144,9 @@
             </gmd:citation>
             <gmd:abstract>
                 <gco:CharacterString>This resource is a booklet summarizing polar meteorological observations from the International Geophysical Year, July 1957-Dec. 1958. Information provided includes measurements from two drifting stations, and radiation data. 
-                                  DRIFTING STATION A: Introduction; Map of track and area traversed; Surface data - Average and extreme of maximum and minimum daily temperature (F); Average air temperature (F); Frequency of pressure by 10 MB intervals; Station pressure (Mbs); Number of observations with occurrences of weather; Days with rain, days with snow, rain amount (in), and snowfall (in); Temperature and wind speed (F and Knots); Ceiling - visibility (ft and mi); Total cloud amount (tenths); Rawinsode data; Instrumentation; Table of positions. 
-                                  DRIFTING STATION B: Introduction; Map of track and area traversed; Surface data - Average and extreme of maximum and minimum daily temperature (F); Average air temperature (F); Frequency of pressure by 10 MB intervals; Station pressure (Mbs); Number of observations with occurrences of weather; Days with rain, days with snow, rain amount (in), and snowfall (in); Temperature and wind speed (F and Knots); Ceiling - visibility (ft and mi); Total cloud amount (tenths); Rawinsode data; Instrumentation; Table of positions. 
-                                  RADIATION DATA: Daily and hourly means of total radiation (solar and sky) (T) on a horizontal surface (cal/cm2/hr); Daily and hourly means of total radiations (solar and sky) (R) reflected from the surface (cal/cm2/hr); Daily and hourly means of total radiation balance (Q) (cal/cm2/hr); Daily and hourly means of total incoming radiation (short-wave and long-wave) (Q1) on a horizontal surface (cal/cm2/hr)</gco:CharacterString>
+                                          DRIFTING STATION A: Introduction; Map of track and area traversed; Surface data - Average and extreme of maximum and minimum daily temperature (F); Average air temperature (F); Frequency of pressure by 10 MB intervals; Station pressure (Mbs); Number of observations with occurrences of weather; Days with rain, days with snow, rain amount (in), and snowfall (in); Temperature and wind speed (F and Knots); Ceiling - visibility (ft and mi); Total cloud amount (tenths); Rawinsode data; Instrumentation; Table of positions. 
+                                          DRIFTING STATION B: Introduction; Map of track and area traversed; Surface data - Average and extreme of maximum and minimum daily temperature (F); Average air temperature (F); Frequency of pressure by 10 MB intervals; Station pressure (Mbs); Number of observations with occurrences of weather; Days with rain, days with snow, rain amount (in), and snowfall (in); Temperature and wind speed (F and Knots); Ceiling - visibility (ft and mi); Total cloud amount (tenths); Rawinsode data; Instrumentation; Table of positions. 
+                                          RADIATION DATA: Daily and hourly means of total radiation (solar and sky) (T) on a horizontal surface (cal/cm2/hr); Daily and hourly means of total radiations (solar and sky) (R) reflected from the surface (cal/cm2/hr); Daily and hourly means of total radiation balance (Q) (cal/cm2/hr); Daily and hourly means of total incoming radiation (short-wave and long-wave) (Q1) on a horizontal surface (cal/cm2/hr)</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
@@ -508,14 +508,10 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimeEdge gml:id="None">
-                                    <gml:extent>
-                                    <gml:TimePeriod gml:id="None">
+                                <gml:TimePeriod gml:id="None">
                                     <gml:beginPosition>1957-07</gml:beginPosition>
                                     <gml:endPosition>1958-12</gml:endPosition>
-                                    </gml:TimePeriod>
-                                    </gml:extent>
-                                </gml:TimeEdge>
+                                </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
                     </gmd:temporalElement>
