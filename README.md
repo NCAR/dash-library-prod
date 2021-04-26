@@ -14,6 +14,10 @@ https://service.ncddc.noaa.gov/rdn/www/metadata-standards/documents/MD-Metadata.
 
 ## Library Completeness Graph
 
+![GCMD Keywords](https://github.com/NCAR/dash-library-prod//blob/master/library_gcmd_counts_levels.txt)
+
+![GCMD Level Counts](https://github.com/NCAR/dash-library-prod//blob/master/library_gcmd_counts_levels.txt#L11)
+
 ![Library Completeness Graphx2](https://github.com/NCAR/dash-eol-prod/blob/master/actions/Library/barcharts/library.png)
 
 
