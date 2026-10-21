@@ -14,7 +14,7 @@ https://www.ncei.noaa.gov/sites/default/files/2020-04/ISO%2019115-2%20Workbook_P
 
 ## Library Completeness Graph
 
-![Library Completeness Graphx2](https://github.com/NCAR/dash-eol-prod/blob/master/actions/All/barcharts/library.png)
+![Library Completeness Graphx2](https://github.com/NCAR/dash-eol-prod/blob/main/actions/All/barcharts/library.png)
 
 
 ## Publisher Information
